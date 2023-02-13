@@ -1,8 +1,0 @@
-const productsController ={
-    index: (req, res) => {
-        res.send('Index de productos');
-    }
-
-
-};
-module.exports = controlador;
